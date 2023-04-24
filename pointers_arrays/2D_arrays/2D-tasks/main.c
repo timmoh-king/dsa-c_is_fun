@@ -15,3 +15,7 @@ int main()
         printf("%d\n", a[i][j]);
     }
 }
+/**
+ * ROW MAJOR IMPLEMENTATION
+ * Base + ((i * n) + j) * 4
+ */
